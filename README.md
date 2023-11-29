@@ -10,8 +10,10 @@ a vitual environment. The second section provides an informational overview of m
 
     ```bash
     git clone https://github.com/yourusername/fantasy_football_project.git
-    cd fantasy_football_project
+    
     ```
+
+    Navigate within your directory to the file location of the clone.
 
 
 2. Download data sources using the instructions below:
