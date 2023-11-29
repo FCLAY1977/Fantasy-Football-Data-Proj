@@ -95,7 +95,7 @@ Before embarking on the analysis, it is crucial to ensure the data's quality and
 
 To combine the player information and fantasy projections, the project merges the two DataFrames based on the 'Player' column. This creates a comprehensive dataset that includes both player details and their projected fantasy points.
 
-### Data Analysis and Visualization:
+### Data Analysis:
 
 With the merged DataFrame, the project delves into data analysis to extract meaningful insights into fantasy football trends. Specifically, it calculates Average Fantasy Points by position. The project groups the DataFrame by position and calculates the average fantasy points for each position. This provides an overview of the average fantasy point production for different player roles.
 
