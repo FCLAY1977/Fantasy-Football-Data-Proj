@@ -108,7 +108,7 @@ Identifies Players with Highest Maximum Fantasy Points:
 
 The project identifies players who have achieved the highest maximum fantasy points in their respective positions. This highlights players with the potential for explosive performances.
 
-<u>Constructs Pivot Table for Fantasy Points by Position and Team:</u> 
+Constructs Pivot Table for Fantasy Points by Position and Team:
 
 The project creates a pivot table to summarize average fantasy points by position and team. This concise table allows for quick comparisons and insights into the distribution of fantasy points across different teams and positions.
 
