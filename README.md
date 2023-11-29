@@ -130,37 +130,37 @@ This project demonstrates the application of Python libraries for data analysis 
 
 ## Project Requirement Feature List:
 
-**Data Acquisition and Cleaning:**
+### Data Acquisition and Cleaning:
 
 Acquired two CSV files containing player data and fantasy projections data.
 Performed data cleaning steps to ensure data quality and consistency, including handling missing values, duplicate rows, and outliers.
 
-**Data Merging:**
+### Data Merging:
 
 Merged the cleaned player data and fantasy projections data into a single DataFrame using pandas.
 This combined DataFrame contained both player information and their projected fantasy points.
 
-**Data Analysis and Visualization:**
+### Data Analysis and Visualization:
 
 Calculated average fantasy points by position using pandas.
 Identified players with the highest maximum fantasy points using pandas.
 Constructed a pivot table to summarize average fantasy points by position and team using pandas.
 
-**Visualization:**
+### Visualization:
 
 Created bar charts to visualize average fantasy points by position and maximum fantasy points by position using matplotlib.
 
-**SQL Join:**
+### SQL Join:
 
 Performed an SQL join on the cleaned player data and fantasy projections data using pandasql.
 This join resulted in a merged DataFrame similar to the one obtained using pandas merge.
 
-**Virtual Environment:**
+### Virtual Environment:
 
 Used a virtual environment to isolate the project dependencies from the global Python environment.
 Provided instructions in the README.md file on how to set up a virtual environment.
 
-**Pandas Pivot Table:**
+### Pandas Pivot Table:
 
 Created a pivot table to summarize average fantasy points by position and team.
 This pivot table provided a concise overview of fantasy point distribution across different positions and teams.
@@ -169,11 +169,11 @@ Matplotlib/Seaborn Plot:
 Created bar charts to visualize average fantasy points by position and maximum fantasy points by position using matplotlib.
 These bar charts provided visual representations of the data and allowed for easy identification of trends.
 
-**README.md:**
+### README.md:
 
 Included a well-written README.md file with project overview, instructions, and explanations.
 
-**Code Organization:**
+### Code Organization:
 
 Organized the code into a structured and well-documented way.
 Removed empty cells and incomplete cells.
