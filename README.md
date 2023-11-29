@@ -39,6 +39,9 @@ Initiate the download: Click on the "Download" button. This will initiate the do
 
 
 
+
+
+
 3. Create and activate a virtual environment:
 
     ```bash
