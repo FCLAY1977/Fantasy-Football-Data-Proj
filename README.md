@@ -77,7 +77,7 @@ Initiate the download: Click on the "Download" button. This will initiate the do
 Now you can run your Jupyter Notebook within the activated virtual environment.
 
 
-# Below is a synopsis of my project:  
+# Informational Overview:  
 
 ### Introduction
 
