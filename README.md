@@ -82,11 +82,11 @@ Now you can run your Jupyter Notebook within the activated virtual environment.
 Fantasy football has become a popular pastime among sports enthusiasts, with millions of people participating in leagues and tournaments each year. In fantasy football, participants draft players from various NFL teams and accumulate points based on their real-life performance. To make informed decisions about their draft and player selection, fantasy football enthusiasts often rely on data analysis and projections to identify players with high potential for fantasy points. These are the steps I took in conceptualizing the thought process behind the methods I used to achieve this.
 
 
-Data Acquisition and Cleaning:
+# Data Acquisition and Cleaning:
 
 This project begins by acquiring two CSV files containing relevant data for fantasy football analysis.
 
-Player Data: 
+# Player Data: 
 
 This file contains information about NFL players, including their names, teams, positions, and various statistical metrics.
 
