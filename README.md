@@ -2,7 +2,7 @@
 
 This project analyzes fantasy football data. This first section provides instructions on how to get
 access to my project and provides instructions on how to access dependenncies and operate within
-a vitual environment.
+a vitual environment. The second section provides an informational overview of my project.
 
 ## Setup
 
