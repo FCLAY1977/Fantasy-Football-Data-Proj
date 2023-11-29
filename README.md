@@ -141,9 +141,6 @@ This combined DataFrame contained both player information and their projected fa
 Calculated average fantasy points by position using pandas.
 Identified players with the highest maximum fantasy points using pandas.
 Constructed a pivot table to summarize average fantasy points by position and team using pandas.
-
-### Visualization:
-
 Created bar charts to visualize average fantasy points by position and maximum fantasy points by position using matplotlib.
 
 ### SQL Join:
@@ -160,14 +157,14 @@ Provided instructions in the README.md file on how to set up a virtual environme
 
 Created a pivot table to summarize average fantasy points by position and team.
 This pivot table provided a concise overview of fantasy point distribution across different positions and teams.
-Matplotlib/Seaborn Plot:
 
-Created bar charts to visualize average fantasy points by position and maximum fantasy points by position using matplotlib.
+### Matplotlib/Seaborn Plot:
+
 These bar charts provided visual representations of the data and allowed for easy identification of trends.
 
 ### README.md:
 
-Included a well-written README.md file with project overview, instructions, and explanations.
+Included an organizationally written README.md file with project overview, instructions, and explanations.
 
 ### Code Organization:
 
