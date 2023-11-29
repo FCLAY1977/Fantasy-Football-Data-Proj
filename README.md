@@ -27,7 +27,7 @@ Choose the CSV format: Once you find the download option, select the "CSV" or "C
 Initiate the download: Click on the "Download CSV" or "Export as CSV" button. This will initiate the download process and save the file to your computer.
 
 
-Dat Source 2:
+Data Source 2:
 
 Navigate to the website: Open a web browser and go to the specified URL: https://www.fantasypros.com/nfl/projections/qb.php?week=draft
 
