@@ -13,10 +13,10 @@ a vitual environment. The second section provides an informational overview of m
     
     ```
 
-    Navigate within your directory to the file location of the clone.
+2. Navigate within your directory to the file location of the clone.
 
 
-2. Download data sources using the instructions below:
+3. Download data sources using the instructions below:
 
 Data Source 1:
 
