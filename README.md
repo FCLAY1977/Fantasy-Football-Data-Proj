@@ -72,11 +72,12 @@ Initiate the download: Click on the "Download" button. This will initiate the do
 Now you can run your Jupyter Notebook within the activated virtual environment.
 
 
-## Below is a synopsis of my project and the direction I took in conceptualizing the thought process behind the methods I used to achieve this.
+# Below is a synopsis of my project:  
 
 Introduction
 
-Fantasy football has become a popular pastime among sports enthusiasts, with millions of people participating in leagues and tournaments each year. In fantasy football, participants draft players from various NFL teams and accumulate points based on their real-life performance. To make informed decisions about their draft and player selection, fantasy football enthusiasts often rely on data analysis and projections to identify players with high potential for fantasy points.
+Fantasy football has become a popular pastime among sports enthusiasts, with millions of people participating in leagues and tournaments each year. In fantasy football, participants draft players from various NFL teams and accumulate points based on their real-life performance. To make informed decisions about their draft and player selection, fantasy football enthusiasts often rely on data analysis and projections to identify players with high potential for fantasy points. These are the steps I took in conceptualizing the thought process behind the methods I used to achieve this.
+
 
 Data Acquisition and Cleaning
 
