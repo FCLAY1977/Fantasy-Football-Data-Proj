@@ -77,7 +77,7 @@ Now you can run your Jupyter Notebook within the activated virtual environment.
 
 # Below is a synopsis of my project:  
 
-**Introduction**
+### Introduction
 
 Fantasy football has become a popular pastime among sports enthusiasts, with millions of people participating in leagues and tournaments each year. In fantasy football, participants draft players from various NFL teams and accumulate points based on their real-life performance. To make informed decisions about their draft and player selection, fantasy football enthusiasts often rely on data analysis and projections to identify players with high potential for fantasy points. These are the steps I took in conceptualizing the thought process behind the methods I used to achieve this.
 
@@ -86,45 +86,44 @@ Fantasy football has become a popular pastime among sports enthusiasts, with mil
 
 This project begins by acquiring two CSV files containing relevant data for fantasy football analysis.
 
-Player Data: 
+### Player Data: 
 
 This file contains information about NFL players, including their names, teams, positions, and various statistical metrics.
 
-Fantasy Projections Data: 
+### Fantasy Projections Data: 
 
 This file provides fantasy point projections for various NFL players, estimated by experts or statistical models.
-
 Before embarking on the analysis, it is crucial to ensure the data's quality and consistency. The project performs data cleaning steps to address any missing values, duplicate rows, or outliers. This ensures that the subsequent analysis is based on reliable and accurate information.
 
-Data Merging:
+### Data Merging:
 
 To combine the player information and fantasy projections, the project merges the two DataFrames based on the 'Player' column. This creates a comprehensive dataset that includes both player details and their projected fantasy points.
 
-Data Analysis and Visualization:
+### Data Analysis and Visualization:
 
 With the merged DataFrame, the project delves into data analysis to extract meaningful insights into fantasy football trends. Specifically, it calculates Average Fantasy Points by position. The project groups the DataFrame by position and calculates the average fantasy points for each position. This provides an overview of the average fantasy point production for different player roles.
 
-Identifies Players with Highest Maximum Fantasy Points: 
+### Identifies Players with Highest Maximum Fantasy Points: 
 
 The project identifies players who have achieved the highest maximum fantasy points in their respective positions. This highlights players with the potential for explosive performances.
 
-Constructs Pivot Table for Fantasy Points by Position and Team:
+### Constructs Pivot Table for Fantasy Points by Position and Team:
 
 The project creates a pivot table to summarize average fantasy points by position and team. This concise table allows for quick comparisons and insights into the distribution of fantasy points across different teams and positions.
 
-Visualization:
+### Visualization:
 
 To effectively communicate the findings and provide visual representations of the data, the project utilizes matplotlib, a Python library for data visualization. It creates bar charts to visualize the data below:
 
-Average Fantasy Points by Position:
+### Average Fantasy Points by Position:
 
 The bar chart depicts the average fantasy points for each position, allowing for easy comparison of their fantasy point production.
 
-Maximum Fantasy Points by Position: 
+### Maximum Fantasy Points by Position: 
 
 The bar chart showcases the players with the highest maximum fantasy points for each position, highlighting those with the potential for exceptional performances.
 
-**Conclusion**
+### Conclusion
 
 This project demonstrates the application of Python libraries for data analysis and visualization in the context of fantasy football. It provides valuable insights into player performance and fantasy point projections, helping fantasy football enthusiasts make informed decisions about their draft and player selection. The project highlights the importance of data-driven approaches in enhancing fantasy football strategies and making informed decisions.
 
