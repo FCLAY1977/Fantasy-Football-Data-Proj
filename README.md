@@ -116,7 +116,7 @@ Conclusion
 This project demonstrates the application of Python libraries for data analysis and visualization in the context of fantasy football. It provides valuable insights into player performance and fantasy point projections, helping fantasy football enthusiasts make informed decisions about their draft and player selection. The project highlights the importance of data-driven approaches in enhancing fantasy football strategies and making informed decisions.
 
 
-Project Requirement Feature List:
+## Project Requirement Feature List:
 
 Data Acquisition and Cleaning:
 
