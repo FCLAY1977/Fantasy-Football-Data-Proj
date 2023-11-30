@@ -111,7 +111,7 @@ The project creates a pivot table to summarize average fantasy points by positio
 
 ### Visualization:
 
-To effectively communicate the findings and provide visual representations of the data, the project utilizes matplotlib, a Python library for data visualization. It creates bar charts to visualize the data below:
+To effectively communicate the findings and provide visual representations of the data, the project utilizes matplotlib, a Python library for data visualization. It creates bar charts to visualize the data.
 
 ### Average Fantasy Points by Position:
 
