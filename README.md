@@ -101,10 +101,6 @@ To combine the player information and fantasy projections, the project merges th
 
 With the merged DataFrame, the project delves into data analysis to extract meaningful insights into fantasy football trends. Specifically, it calculates Average Fantasy Points by position. The project groups the DataFrame by position and calculates the average fantasy points for each position. This provides an overview of the average fantasy point production for different player roles.
 
-### Identifies Players with Highest Maximum Fantasy Points: 
-
-The project identifies players who have achieved the highest maximum fantasy points in their respective positions. This highlights players with the potential for explosive performances.
-
 ### Constructs Pivot Table for Fantasy Points by Position and Team:
 
 The project creates a pivot table to summarize average fantasy points by position and team. This concise table allows for quick comparisons and insights into the distribution of fantasy points across different teams and positions.
@@ -117,7 +113,7 @@ To effectively communicate the findings and provide visual representations of th
 
 The bar chart depicts the average fantasy points for each position, allowing for easy comparison of their fantasy point production.
 
-### Maximum Fantasy Points by Position: 
+### Maximum Fantasy Points by Position:
 
 The bar chart showcases the players with the highest maximum fantasy points for each position, highlighting those with the potential for exceptional performances.
 
