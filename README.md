@@ -9,7 +9,7 @@ a vitual environment. The second section provides an informational overview of m
 1. Clone the repository:
 
     ```bash
-   git clone https://github.com/yourusername/fantasy_football_project.git](https://github.com/FCLAY1977/Fantasy-Football-Data-Proj.git
+   ghttps://github.com/FCLAY1977/Fantasy-Football-Data-Proj.git
     
     ```
 
