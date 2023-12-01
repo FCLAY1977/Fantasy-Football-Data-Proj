@@ -13,7 +13,9 @@ a vitual environment. The second section provides an informational overview of m
     
     ```
 
+
 2. Navigate within your directory to the file location of the clone.
+
 
 
 3. Optionally you can download the data sources using the instructions below:
@@ -33,6 +35,7 @@ Navigate to the website: Open a web browser and go to the specified URL: https:/
 -Initiate the download: Click on the "Download CSV" or "Export as CSV" button. This will initiate the download process and save the file to your computer.
 
 
+
 4. Create and activate a virtual environment:
 
     ```bash
@@ -49,6 +52,7 @@ Navigate to the website: Open a web browser and go to the specified URL: https:/
         source env/bin/activate
         ```
 
+
 5. Install project dependencies:
 
     ```bash
@@ -56,6 +60,7 @@ Navigate to the website: Open a web browser and go to the specified URL: https:/
     pip install pandas matplotlib numpy pandasql seaborn
 
     ```
+
 
 6. Open the Jupyter Notebook:
 
