@@ -16,35 +16,24 @@ a vitual environment. The second section provides an informational overview of m
 2. Navigate within your directory to the file location of the clone.
 
 
-3. Download data sources using the instructions below:
+3. Optionally you can download the data sources using the instructions below:
 
 Data Source 1:
 
 Navigate to the website: Open a web browser and go to the specified URL: https://www.pro-football-reference.com/years/2022/fantasy.htm
 
-Locate the download options: On the webpage, look for a link or button that indicates "Download" or "Export Data." This option may be located in a menu, toolbar, or under a data table.
-
-Choose the CSV format: Once you find the download option, select the "CSV" or "Comma-Separated Values" format. This will ensure the data is downloaded in a structured format compatible with data analysis tools.
-
-Initiate the download: Click on the "Download CSV" or "Export as CSV" button. This will initiate the download process and save the file to your computer.
-
-
 Data Source 2:
 
 Navigate to the website: Open a web browser and go to the specified URL: https://www.fantasypros.com/nfl/projections/qb.php?week=draft
 
-Locate the download option: On the webpage, look for a link or button that says "Download Data." This option may be located in a menu, toolbar, or below the data table.
+-Locate the download options: On the webpage, look for a link or button that indicates "Download" or "Export Data." This option may be located in a menu, toolbar, or under a data table.
 
-Select the CSV format: Once you find the download option, click on the dropdown menu and choose "CSV" as the desired format.
+-Choose the CSV format: Once you find the download option, select the "CSV" or "Comma-Separated Values" format. This will ensure the data is downloaded in a structured format compatible with data analysis tools.
 
-Initiate the download: Click on the "Download" button. This will initiate the download process and save the file to your computer.
-
-
+-Initiate the download: Click on the "Download CSV" or "Export as CSV" button. This will initiate the download process and save the file to your computer.
 
 
-
-
-3. Create and activate a virtual environment:
+4. Create and activate a virtual environment:
 
     ```bash
     python -m venv env
@@ -60,7 +49,7 @@ Initiate the download: Click on the "Download" button. This will initiate the do
         source env/bin/activate
         ```
 
-4. Install project dependencies:
+5. Install project dependencies:
 
     ```bash
     
@@ -68,7 +57,7 @@ Initiate the download: Click on the "Download" button. This will initiate the do
 
     ```
 
-5. Open the Jupyter Notebook:
+6. Open the Jupyter Notebook:
 
     ```bash
     jupyter notebook fantasy_football_analysis.ipynb
